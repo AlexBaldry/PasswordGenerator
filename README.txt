@@ -1,4 +1,5 @@
-Hey all,
+###### Password Generator Site
 
+Little site I made up and thought I put it up for free. Enjoy,
 
-A basic password generator site. No passwords are stored with an IP which can be seen on the src. Feel free to download and use for your own site :)
+Alex
